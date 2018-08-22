@@ -4,8 +4,8 @@
 View my portfolio here: https://adnanyousef.github.io/portfolio
 
 ## Demo of my Word Guess CLI game
-<p align="center" style="max-width: 0.5rem;">
-<img src="https://github.com/adnanyousef/portfolio/raw/master/assets/images/word-guess.gif" alt="Word Guess Demo">
+<p align="center">
+<img width="400" src="https://github.com/adnanyousef/portfolio/raw/master/assets/images/word-guess.gif" alt="Word Guess Demo">
 </p>
 
 
