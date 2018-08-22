@@ -1,10 +1,14 @@
 body {
     background-size: 100%;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Montserrat', 'Verdana', sans-serif;
 }
 
 .nav-wrapper {
     background-color: #3498db;
+}
+
+.navbar-fixed {
+    font-family: "Do Hyeon", 'Verdana', sans-serif;
 }
 
 .underline:hover {
@@ -18,6 +22,7 @@ footer {
 .inner-text {
     font-family: 'Montserrat', sans-serif;
     font-weight: 600;
+    color: #3498db;
 }
 
 /* #about-me-container {
