@@ -100,5 +100,9 @@ h3 {
 #resume-link {
     background-color: #3498db;
     color: white;
-    font-size: 16px;
+}
+
+#resume-span {
+    color: white;
+    font-weight: bold;
 }
