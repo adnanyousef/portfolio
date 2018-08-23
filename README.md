@@ -5,7 +5,7 @@ View my portfolio here: https://adnanyousef.github.io/portfolio
 
 ## Demo of my Word Guess CLI game
 <p align="center">
-<img width="600" src="assets/images/word-guess.svg" alt="Word Guess Demo">
+<img width="600" src="assets/images/word-guess.gif" alt="Word Guess Demo">
 </p>
 
 
