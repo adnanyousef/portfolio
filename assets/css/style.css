@@ -40,9 +40,14 @@ footer {
     padding-bottom: 5px;
 }
 
+#portfolio-heading {
+    margin-top: 10px;
+}
+
 #contact-heading {
     text-align: center;
     width: 100%;
+    margin-top: 10px;
 }
 
 #footer {

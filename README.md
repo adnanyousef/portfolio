@@ -12,7 +12,7 @@ View my portfolio here: https://adnanyousef.github.io/portfolio
 You can find more info on this app [in its GitHub repo](https://github.com/adnanyousef/word-guess-cli). Have fun playing it!
 
 ## Todo
-- [ ] Add favicon
-- [ ] Fix issue with <hr> elements
+- [x] Add favicon
+- [x] Fix issue with <hr> elements
 - [ ] Enhance mobile responsiveness
-- [ ] Add resume
+- [x] Add resume
