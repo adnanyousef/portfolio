@@ -31,7 +31,6 @@
             return $(this).parents("form")[0];
           }).toArray()
         );
-
         $(uniqueForms).bind("submit", function (e) {
           var $form = $(this);
           var warningsFound = 0;
