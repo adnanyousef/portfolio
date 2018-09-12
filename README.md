@@ -1,2 +1,2 @@
 # Portfolio
-https://adnanyousef.github.io/portfolio-v2/
+https://adnanyousef.github.io/portfolio
