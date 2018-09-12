@@ -95,7 +95,7 @@
               message = "Not in the expected format<!-- data-validation-pattern-message to override -->";
               if ($this.data("validationPatternMessage")) {
                 message = $this.data("validationPatternMessage");
-              }
+              };
               $this.data("validationPatternMessage", message);
               $this.data("validationPatternRegex", $this.attr("pattern"));
             }
