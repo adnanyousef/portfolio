@@ -47,9 +47,7 @@
               warningsFound++;
             }
           });
-
           $inputs.trigger("validationLostFocus.validation");
-
           if (warningsFound) {
             if (settings.options.preventSubmit) {
               e.preventDefault();
