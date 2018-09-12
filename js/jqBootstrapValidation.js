@@ -78,7 +78,7 @@
               $helpBlock = $('<div class="help-block" />');
               $controlGroup.find('.controls').append($helpBlock);
 							createdElements.push($helpBlock[0]);
-          }
+          };
 
           // =============================================================
           //                                     SNIFF HTML FOR VALIDATORS
