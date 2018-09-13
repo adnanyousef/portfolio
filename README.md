@@ -8,3 +8,4 @@ View my portfolio at https://adnanyousef.github.io/portfolio.
 |[Snippet Saver](https://snippet-web.herokuapp.com/)|[GitHub](https://www.github.com/adnanyousef/snippet-web)|Full-stack app to save and search for reusable code snippets.|
 |LIRI|[GitHub](https://www.github.com/adnanyousef/liri-node-app)|A command-line app that leverages several APIs to return results for songs, movies, and nearby concerts.|
 |[Coding Friend Finder](https://hidden-earth-46755.herokuapp.com/)|[GitHub](https://www.github.com/adnanyousef/FriendFinder)|Find your new best buddy!|
+|Bamazon|[GitHub](https://www.github.com/adnanyousef/Bamazon)|A CLI storefront and inventory tracking app.|
