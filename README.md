@@ -5,4 +5,3 @@ View my portfolio at https://adnanyousef.github.io/portfolio.
 - [Where2](https://adnanyousef.github.io/Where2)
 - [Snippet Saver](https://snippet-web.herokuapp.com/)
 - [Coding Friend Finder](https://hidden-earth-46755.herokuapp.com/)
-  
