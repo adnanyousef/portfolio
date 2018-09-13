@@ -9,3 +9,5 @@ View my portfolio at https://adnanyousef.github.io/portfolio.
 |LIRI|[GitHub](https://www.github.com/adnanyousef/liri-node-app)|A command-line app that leverages several APIs to return results for songs, movies, and nearby concerts.|
 |[Coding Friend Finder](https://hidden-earth-46755.herokuapp.com/)|[GitHub](https://www.github.com/adnanyousef/FriendFinder)|Find your new best buddy!|
 |Bamazon|[GitHub](https://www.github.com/adnanyousef/Bamazon)|A CLI storefront and inventory tracking app.|
+|[GifFinder](https://adnanyousef.github.io/GifFinder/)|[GitHub](https://github.com/adnanyousef/GifFinder)|A simple interface to find your favorite GIFs.|
+|[Word Guess Game](https://adnanyousef.github.io/WordGuessGame/)|[GitHub](https://github.com/adnanyousef/WordGuessGame)|Word guess game in HTML and JS.|
